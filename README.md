@@ -11,4 +11,7 @@ https://github.com/SThieshen/Pewlett-Hackard_Analysis/blob/f189f1433ce48ff39cb51
 
 ### Employees Eligible for Retirement
 - After analysis was conducted, it was determined there is currently a large amount of employees at retirement age within the company. In a company of over 300,000 employees, 90,398(30%) are eligible for retirement!
-- Of those employees eligible for retirement, Senior Engineers and Senior Staff account for approximately 64% of those possible retirees. See
+- Of those employees eligible for retirement, Senior Engineers and Senior Staff account for approximately 64% of those possible retirees. 
+
+### Employess Eligible for Mentorship
+- 
