@@ -7,7 +7,7 @@ The purpose of this analysis was to utilize a database for Pewlett Hackard, prov
 ## Results
 - To organize the data, ERD (Entity Relationship Diagram) was utilized to visualize the relationship between the data sources and the outlining of the structure the HR department planned to take to implement the analysis. Below is the link to the graphic used for this project:
 
-https://github.com/SThieshen/Pewlett-Hackard_Analysis/blob/f189f1433ce48ff39cb51a57edc7e8ad962a2215/Queries/EmployeeDB.png
+![EmployeeDB](https://github.com/SThieshen/Pewlett-Hackard_Analysis/blob/f189f1433ce48ff39cb51a57edc7e8ad962a2215/Queries/EmployeeDB.png)
 
 ### Employees Eligible for Retirement
 - After analysis was conducted, it was determined there is currently a large amount of employees at retirement age within the company. In a company of over 300,000 employees, 90,398(30%) are eligible for retirement!
