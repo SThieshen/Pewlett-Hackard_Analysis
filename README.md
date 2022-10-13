@@ -17,5 +17,8 @@ The purpose of this analysis was to utilize a database for Pewlett Hackard, prov
 ![retiring_titles_image](https://user-images.githubusercontent.com/111802162/195468514-aa05799b-5061-47b3-bc41-d8bda79f6ba6.png)
 
 
-### Employess Eligible for Mentorship
-- 
+### Employees Eligible for Mentorship
+- Pewlett Hackard proposed a mentorship program for upcoming retirees born in 1965, where experienced and successful employees would return to a part-time role instead of retiring completely and mentor newly hired employees. Based on the criteria, only 1550 employees qualify. Considering less than 2% of eligible retirees qualify for mentorship, the company may consider broadening their criterion.
+
+## Summary
+Based on the Pewlett Hackard analysis, the company is potentially facing over 90,000 vacant positions due to retirements. Considering the company has the potential to lose 30% of their workforce, addressing the potential upcoming retirements, sooner rather than later, would benefit the company. The mentorship program is helpful, but, as is, not enough. My recommendation would be to broaden the mentorship criterion to include more potential retirees, thus slowing the exodus of retirees and improving the training of the new, replacement hires.
